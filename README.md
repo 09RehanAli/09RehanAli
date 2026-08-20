@@ -1,26 +1,135 @@
-<h1 align="center">Hi 👋, I'm Rehan Ali</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=09rehanali&label=Profile%20views&color=0e75b6&style=flat" alt="09rehanali" /> </p>
+# 👋 Hi, I'm Rehan Ali
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=09rehanali" alt="09rehanali" /></a> </p>
+### FullSack Developer | Problem Solver  | Open Source Contributor
 
-- 🌱 I’m currently learning **Java Script**
-
-- 💬 Ask me about **Full stack Development**
-
-- 📫 How to reach me **09rehan.alii@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rehan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan ali" height="30" width="40" /></a>
-<a href="https://instagram.com/sizanraza09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sizanraza09" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5u2wV5VTt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5u2wV5VTt" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/09rehanali">
+    <img src="https://komarev.com/ghpvc/?username=09rehanali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitors" />
+  </a>
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=09rehanali&show_icons=true&locale=en&layout=compact" alt="09rehanali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=09rehanali&show_icons=true&locale=en" alt="09rehanali" /></p>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 I'm a **Full-Stack Developer** who enjoys building useful and practical applications.
+- 🌱 Currently learning **JavaScript** and improving my full-stack development skills.
+- 🧠 Interested in **web development, software development, Git & GitHub**.
+- 🔨 I like turning ideas into real projects and continuously improving my code.
+- 💬 Ask me about **Full-Stack Development**.
+- 📫 Reach me at **09rehan.alii@gmail.com**.
+
+---
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<p>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  </a>
+</p>
+
+</div>
+
+---
+
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/09rehanali">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=09rehanali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<!--
+  Add your best repositories here.
+  Replace PROJECT-1 and PROJECT-2 with real repository names.
+  Example:
+  https://github.com/09rehanali/PROJECT-1
+-->
+
+<div align="center">
+
+<a href="https://github.com/09rehanali?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=09rehanali&repo=09rehanali&theme=github_dark&hide_border=true" alt="Featured project" />
+</a>
+
+</div>
+
+<p align="center">
+  🔎 <a href="https://github.com/09rehanali?tab=repositories"><b>Explore all my repositories →</b></a>
+</p>
+
+---
+
+
+
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in **web development, open source, or building cool projects**, feel free to connect with me.
+
+<p>
+  <a href="mailto:09rehan.alii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-09rehan.alii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/sizanraza09">
+    <img src="https://img.shields.io/badge/Instagram-sizanraza09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/5u2wV5VTt">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<sub>Built with ❤️ by Rehan Ali</sub>
+
+</div>

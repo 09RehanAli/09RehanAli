@@ -21,7 +21,7 @@
 
 - 💻 I'm a **Full-Stack Developer** who enjoys building useful and practical applications.
 - 🌱 Currently learning **JavaScript** and improving my full-stack development skills.
-- 🧠 Interested in **web development, software development, Git & GitHub**.
+- 🧠 Interested in **web development, software development, Mobile App**.
 - 🔨 I like turning ideas into real projects and continuously improving my code.
 - 💬 Ask me about **Full-Stack Development**.
 - 📫 Reach me at **09rehan.alii@gmail.com**.

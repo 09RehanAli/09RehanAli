@@ -60,22 +60,7 @@
 
 </div>
 
----
 
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/09rehanali">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=09rehanali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
-
-</div>
-
----
 
 ## 🌟 Featured Projects
 
